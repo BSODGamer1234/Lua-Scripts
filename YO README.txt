@@ -1,0 +1,1 @@
+Put the txt and lua files in mods/custom_events
